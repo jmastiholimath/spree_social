@@ -11,7 +11,7 @@ Gem::Specification.new do |s|
   s.description = s.summary
   s.required_ruby_version = '>= 2.1.0'
 
-  s.author   = 'John Dyer'
+  s.author   = 'John Dye'
   s.email    = 'jdyer@spreecommerce.com'
   s.homepage = 'http://www.spreecommerce.com'
   s.license  = 'BSD-3'
